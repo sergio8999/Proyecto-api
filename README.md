@@ -4,4 +4,4 @@ Proyecto sobre la búsqueda de películas e información sobre cada una al hacer
 
 Para este proyecto he utilizado la api de OBMDb.
 
-Enlace:https://sergio8999.github.io/Proyecto-api/.
+Enlace: https://sergio8999.github.io/Proyecto-api/.
